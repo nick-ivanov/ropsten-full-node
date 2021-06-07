@@ -1,4 +1,4 @@
-# Full Ropsten Node Intaller and Runner
+# Ropsten Full Node Intaller and Runner
 Automatically install and run a Ropsten full node on Ubuntu, with or without mining.
 
 **NOTE:** This project is not part of the official Ethereum stack. This is a third-party script that automates deployment of a Ropsten testnet full node.
