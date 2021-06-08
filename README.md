@@ -33,6 +33,7 @@ If you want to mine Ropsten Ether, use the following command instead:
 
 where `<ETHEREUM_ADDRESS> is the etherbase address, i.e., the address where the mined Ethers will be deposited to.
 
+## Fine Tuning
 
-
+Depending on the number of threads available in your CPU, you may want to adjust the `--miner.threads` parameter in `start-ropsten-full-node-with-mining.sh`, which is `16` by default.
 
